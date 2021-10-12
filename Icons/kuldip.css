@@ -1,0 +1,46 @@
+h1{
+    color: rgb(255, 255, 255);
+
+   
+    background-color:red ;
+
+}
+
+h3{
+    color:red;
+    text-align: center;
+}
+
+
+.game{
+    display:flex;
+   flex-wrap:wrap;
+   justify-content: space-evenly;
+}
+
+
+.heder{
+
+justify-content: flex-end
+}
+
+body{
+    background-color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
